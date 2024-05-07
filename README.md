@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn or Twitter
 - ⚡ Fun fact: I make awesome sorbet and gin from scratch!
 -->
+
+![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=WKahnZA&show_icons=true&count_private=true)
